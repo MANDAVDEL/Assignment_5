@@ -12,6 +12,7 @@ How ground level is estimated?
    distribution (1-40 percentile) to th reduce the influence of tall objects.
 3. Create a histogram of the selected z values.
    The bin with the highest number of point represents the most common ground height
+   
    Dataset1 ranges:
 x: 0.14499999998952262 → 99.26600000000326
 y: 80.00899999961257 → 159.9989999998361
