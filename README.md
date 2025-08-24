@@ -29,3 +29,15 @@ y: 0.0030000004917383194 → 79.99799999967217
 z: 59.762 → 79.80799999999999
 
     Dataset2: Ground level = 61.2680366666667
+
+Task 2
+
+Task2 is a mapp containing the code, results, elbow plots and dbscan plots.
+The steps to solved the task was: Remove ground points, compute the k-distance curve, find the elbow point, run DBSCAN with the found epsilon,  inspect the cluster from the two datasets and save the results.
+
+The optimal results:
+
+[Task2] Optimal eps – dataset1: 0.9743
+[Task2] Optimal eps – dataset2: 0.9743
+
+Clusters are dense and compact and well separated, I think the eps is well chosen because no single cluster dominates the entire dataset.
