@@ -2,7 +2,9 @@ Assignment_5
 
 This repository contains task and code for "assignment 5"
 It includes datasets, python scripts, results and images.
+
 Task 1
+
 Task1 is a mapp containing the code, results and histograms plots.
 The steps to solved the task was: loads a 3D point cloud dataset,
 estimates ground level by analyzing the distribution of z values (hights)
